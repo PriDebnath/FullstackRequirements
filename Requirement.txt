@@ -1,3 +1,7 @@
  #1 Basic knowledge of how internet works .
 
- #2 HTML - hyper text markup language > to define the skeleton of a web page
+ #2 HTML - Hyper text markup language > to define the skeleton of a web page
+ 
+ #3 CSS - Cascading style sheet > to style the web page
+ 
+ 
